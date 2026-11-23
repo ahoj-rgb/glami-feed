@@ -40,7 +40,14 @@ def conv(item):
     if not cat:
         return None
     item = re.sub(r"<CATEGORYTEXT>.*?</CATEGORYTEXT>", "<CATEGORYTEXT>%s</CATEGORYTEXT>" % escape(cat), item)
-    item = re.sub(r"<GTIN>(.*?)</GTIN>", r"<EAN>\1</EAN>", item)
+    item = re.sub(r"<GTIN>(.*?)</GTIN>", lambda m: "<EAN>%s</EAN>" % m.group(1).zfill(13), item)
+    # Heureka IDs: only letters, digits, - and _ (max 36)
+    for t_ in ("ITEM_ID", "ITEMGROUP_ID"):
+        item = re.sub(r"<%s>(.*?)</%s>" % (t_, t_), lambda m: "<%s>%s</%s>" % (t_, re.sub(r"[^A-Za-z0-9_-]", "-", m.group(1))[:36], t_), item)
+    size = re.search(r"<PARAM_NAME>veľkosť</PARAM_NAME><VAL>(.*?)</VAL>", item)
+    name = re.search(r"<PRODUCTNAME>(.*?)</PRODUCTNAME>", item).group(1)
+    full = "Vačice " + name + (" - veľkosť " + size.group(1) if size else "")
+    item = item.replace("<PRODUCTNAME>%s</PRODUCTNAME>" % name, "<PRODUCTNAME>%s</PRODUCTNAME>\n<PRODUCT>%s</PRODUCT>" % (full, full), 1)
     params, seen = [], set()
     for name, val in re.findall(r"<PARAM><PARAM_NAME>(.*?)</PARAM_NAME><VAL>(.*?)</VAL>(?:<PERCENTAGE>.*?</PERCENTAGE>)?</PARAM>", item):
         if name not in PARAM_NAMES or (name, val) in seen:
