@@ -1,0 +1,24 @@
+name: Glami feed
+on:
+  schedule:
+    - cron: "17 4,10,16 * * *"   # 3x denne (UTC)
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build feed
+        run: python3 glami_feed.py glami-sk.xml
+      - name: Commit if changed
+        run: |
+          git config user.name "glami-feed-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add glami-sk.xml
+          git diff --cached --quiet || git commit -m "Aktualizácia Glami feedu"
+          git push
