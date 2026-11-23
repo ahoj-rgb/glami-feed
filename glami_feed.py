@@ -228,6 +228,17 @@ def main(out):
                       "<PARAM><PARAM_NAME>size_system</PARAM_NAME><VAL>%s</VAL></PARAM>" % sz[0]]
             if color:
                 x.append("<PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>%s</VAL></PARAM>" % escape(color))
+            if "vak" in name.lower():
+                # bags: Südwolle merino yarn is 50 % wool / 50 % lyocell, never "100 % merino"
+                def _sud(lst):
+                    r = []
+                    for mat, pct in lst:
+                        if mat == "merino vlna" and not any(m == "lyocell" for m, _ in lst):
+                            r += [("merino vlna", pct - pct // 2), ("lyocell", pct // 2)]
+                        else:
+                            r.append((mat, pct))
+                    return r
+                outer, lining = _sud(outer), _sud(lining)
             for pname, lst in (("materiál", outer), ("materiál podšívky", lining)):
                 for mat, pct in lst:
                     x.append("<PARAM><PARAM_NAME>%s</PARAM_NAME><VAL>%s</VAL><PERCENTAGE>%d%%</PERCENTAGE></PARAM>" % (pname, mat, pct))
