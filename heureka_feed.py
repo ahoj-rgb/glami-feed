@@ -56,6 +56,8 @@ def conv(item):
         seen.add((name, val))
         params.append("<PARAM><PARAM_NAME>%s</PARAM_NAME><VAL>%s</VAL></PARAM>" % (PARAM_NAMES[name], val))
     item = re.sub(r"\n?<PARAM>.*?</PARAM>", "", item)
+    # web says "Nie je skladom, ušijeme do 3 dní" for made-to-order sizes
+    item = item.replace("<DELIVERY_DATE>5</DELIVERY_DATE>", "<DELIVERY_DATE>3</DELIVERY_DATE>")
     return item.replace("<DELIVERY_DATE>", "\n".join(params) + "\n<DELIVERY_DATE>", 1)
 
 

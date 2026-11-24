@@ -188,7 +188,7 @@
 <ITEM_ID>CV-MER-CAPP-M</ITEM_ID>
 <ITEMGROUP_ID>CV-MER-CAPP</ITEMGROUP_ID>
 <PRODUCTNAME>Celoročný merino spací vak - Cappuccino - TOG 1.5 - 2</PRODUCTNAME>
-<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do 3 dní | Bábätko sa v noci neodkryje, nepotí sa ani nemrzne. Merino udrží stálu teplotu, takže spí pokojnejšie v bežne vykúrenej izbe po celý rok.]]></DESCRIPTION>
+<DESCRIPTION><![CDATA[Bábätko sa v noci neodkryje, nepotí sa ani nemrzne. Merino udrží stálu teplotu, takže spí pokojnejšie v bežne vykúrenej izbe po celý rok.]]></DESCRIPTION>
 <URL>https://www.vacice.sk/celorocny-merino-spaci-vak-cappuccino-tog-1-5-2/</URL>
 <IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/celorocny-merino-spaci-vak-cappuccino-tog-1-5-2-967.jpg?ft=1790357469&amp;nwtrmrk=1</IMGURL>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/cv_cappuccino_zd.jpg?ft=1790357311&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
@@ -514,14 +514,14 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>eucalyptus</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>5</DELIVERY_DATE>
 <GTIN>745314676380</GTIN>
 </SHOPITEM>
 <SHOPITEM>
 <ITEM_ID>CV-MER-HORC-M</ITEM_ID>
 <ITEMGROUP_ID>CV-MER-HORC</ITEMGROUP_ID>
 <PRODUCTNAME>Celoročný merino spací vak - horčicový - 1.5 - 2 TOG</PRODUCTNAME>
-<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do 3 dní | Bábätko sa v noci neodkryje, nepotí sa ani nemrzne. Merino udrží stálu teplotu, takže spí pokojnejšie v bežne vykúrenej izbe po celý rok.]]></DESCRIPTION>
+<DESCRIPTION><![CDATA[Bábätko sa v noci neodkryje, nepotí sa ani nemrzne. Merino udrží stálu teplotu, takže spí pokojnejšie v bežne vykúrenej izbe po celý rok.]]></DESCRIPTION>
 <URL>https://www.vacice.sk/celorocny-merino-spaci-vak-horcicovy/</URL>
 <IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/celorocny-merino-spaci-vak-horcicovy-679.jpeg?ft=1705909907&amp;nwtrmrk=1</IMGURL>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/112d54e21983958113659f814e919811f.jpeg?ft=1705909907&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
@@ -548,7 +548,7 @@
 <ITEM_ID>CV-MER-HORC-XL</ITEM_ID>
 <ITEMGROUP_ID>CV-MER-HORC</ITEMGROUP_ID>
 <PRODUCTNAME>Celoročný merino spací vak - horčicový - 1.5 - 2 TOG</PRODUCTNAME>
-<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do 3 dní | Bábätko sa v noci neodkryje, nepotí sa ani nemrzne. Merino udrží stálu teplotu, takže spí pokojnejšie v bežne vykúrenej izbe po celý rok.]]></DESCRIPTION>
+<DESCRIPTION><![CDATA[Bábätko sa v noci neodkryje, nepotí sa ani nemrzne. Merino udrží stálu teplotu, takže spí pokojnejšie v bežne vykúrenej izbe po celý rok.]]></DESCRIPTION>
 <URL>https://www.vacice.sk/celorocny-merino-spaci-vak-horcicovy/</URL>
 <IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/celorocny-merino-spaci-vak-horcicovy-679.jpeg?ft=1705909907&amp;nwtrmrk=1</IMGURL>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/112d54e21983958113659f814e919811f.jpeg?ft=1705909907&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
@@ -700,7 +700,7 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>light stone</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>5</DELIVERY_DATE>
 <GTIN>8586029950837</GTIN>
 </SHOPITEM>
 <SHOPITEM>
@@ -748,7 +748,7 @@
 <PARAM><PARAM_NAME>size_system</PARAM_NAME><VAL>INT</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>lyocell</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>5</DELIVERY_DATE>
 <GTIN>8586029950738</GTIN>
 </SHOPITEM>
 <SHOPITEM>
@@ -774,6 +774,30 @@
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <DELIVERY_DATE>0</DELIVERY_DATE>
 <GTIN>8586029950752</GTIN>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>CV-MER-LILA-XL</ITEM_ID>
+<ITEMGROUP_ID>CV-MER-LILA</ITEMGROUP_ID>
+<PRODUCTNAME>Celoročný merino spací vak - Lila 2.0 - 1.5 - 2 TOG</PRODUCTNAME>
+<DESCRIPTION><![CDATA[Bábätko sa v noci neodkryje, nepotí sa ani nemrzne. Merino udrží stálu teplotu, takže spí pokojnejšie v bežne vykúrenej izbe po celý rok.]]></DESCRIPTION>
+<URL>https://www.vacice.sk/celorocny-merino-spaci-vak-lila/</URL>
+<IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/celorocny-merino-spaci-vak-lila-829.jpg?ft=1788431807&amp;nwtrmrk=1</IMGURL>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/cv_lila_zd_29.jpg?ft=1788431835&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/cv_lila_detail.jpg?ft=1781082723&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/cv_lila_green_94.jpg?ft=1781082722&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/cv_lila_green_2.jpg?ft=1788431887&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_3013-velkej-velkosti.jpg?ft=1770810474&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_3326-velkej-velkosti_88.jpg?ft=1770810474&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/vak_spravna_velkost.png?ft=1738761021&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<PRICE_VAT>184.00</PRICE_VAT>
+<MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
+<CATEGORYTEXT>Glami.sk | Detské oblečenie a obuv | Detské oblečenie | Oblečenie pre bábätká | Baby nočné prádlo</CATEGORYTEXT>
+<PARAM><PARAM_NAME>veľkosť</PARAM_NAME><VAL>XL</VAL></PARAM>
+<PARAM><PARAM_NAME>size_system</PARAM_NAME><VAL>INT</VAL></PARAM>
+<PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>lyocell</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
+<PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<GTIN>8586029950769</GTIN>
 </SHOPITEM>
 <SHOPITEM>
 <ITEM_ID>CV-MER-MERLOT-M</ITEM_ID>
@@ -1045,7 +1069,7 @@
 <ITEM_ID>CV-MER-RUZ-M</ITEM_ID>
 <ITEMGROUP_ID>CV-MER-RUZ</ITEMGROUP_ID>
 <PRODUCTNAME>Celoročný merino spací vak - ružový - 1.5 - 2 TOG</PRODUCTNAME>
-<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do 3 dní | Bábätko sa v noci neodkryje, nepotí sa ani nemrzne. Merino udrží stálu teplotu, takže spí pokojnejšie v bežne vykúrenej izbe po celý rok.]]></DESCRIPTION>
+<DESCRIPTION><![CDATA[Bábätko sa v noci neodkryje, nepotí sa ani nemrzne. Merino udrží stálu teplotu, takže spí pokojnejšie v bežne vykúrenej izbe po celý rok.]]></DESCRIPTION>
 <URL>https://www.vacice.sk/celorocny-merino-spaci-vak-ruzovy/</URL>
 <IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/celorocny-merino-spaci-vak-ruzovy-725.jpg?ft=1788432120&amp;nwtrmrk=1</IMGURL>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/cv_ruzovy_zd-.jpg?ft=1788432140&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
@@ -1284,26 +1308,6 @@
 <GTIN>8586029951209</GTIN>
 </SHOPITEM>
 <SHOPITEM>
-<ITEM_ID>CV-MER-WSTONE-XL</ITEM_ID>
-<ITEMGROUP_ID>CV-MER-WSTONE</ITEMGROUP_ID>
-<PRODUCTNAME>Celoročný merino spací vak - White Stone - 2.5 TOG</PRODUCTNAME>
-<DESCRIPTION><![CDATA[Bábätko sa v noci neodkryje, nepotí sa ani nemrzne. Merino udrží stálu teplotu, takže spí pokojnejšie v bežne vykúrenej izbe po celý rok.]]></DESCRIPTION>
-<URL>https://www.vacice.sk/celorocny-merino-spaci-vak-white-stone/</URL>
-<IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/celorocny-merino-spaci-vak-white-stone-957.jpg?ft=1790055721&amp;nwtrmrk=1</IMGURL>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/cv_whitestone_zd.jpg?ft=1790055725&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/vak_spravna_velkost.png?ft=1738761021&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<PRICE_VAT>190.00</PRICE_VAT>
-<MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
-<CATEGORYTEXT>Glami.sk | Detské oblečenie a obuv | Detské oblečenie | Oblečenie pre bábätká | Baby nočné prádlo</CATEGORYTEXT>
-<PARAM><PARAM_NAME>veľkosť</PARAM_NAME><VAL>XL</VAL></PARAM>
-<PARAM><PARAM_NAME>size_system</PARAM_NAME><VAL>INT</VAL></PARAM>
-<PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>white stone</VAL></PARAM>
-<PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
-<GTIN>8586029951216</GTIN>
-</SHOPITEM>
-<SHOPITEM>
 <ITEM_ID>CV-MER-WSAND-M</ITEM_ID>
 <ITEMGROUP_ID>CV-MER-WSAND</ITEMGROUP_ID>
 <PRODUCTNAME>Celoročný merino spací vak - Wool Sand - 2.5 TOG</PRODUCTNAME>
@@ -1534,31 +1538,6 @@
 <GTIN>8586029951971</GTIN>
 </SHOPITEM>
 <SHOPITEM>
-<ITEM_ID>DAM-DPYZ-NAT-S</ITEM_ID>
-<ITEMGROUP_ID>DAM-DPYZ-NAT</ITEMGROUP_ID>
-<PRODUCTNAME>Dámske pyžamo z biobavlny - nefarbené</PRODUCTNAME>
-<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do 3 dní | Dámske pyžamo z jemnej biobavlny je navrhnuté pre maximálne pohodlie počas spánku. Materiál overený našimi najmenšími – z rovnakej biobavlny šijeme aj detské košieľky a pyžamká, ktoré si deti obľúbili pre ich mäkkosť a príjemný dotyk na pokožke.]]></DESCRIPTION>
-<URL>https://www.vacice.sk/damske-pyzamo-z-biobavlny-nefarbene/</URL>
-<IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/damske-pyzamo-z-biobavlny-nefarbene-803.jpg?ft=1726498237&amp;nwtrmrk=1</IMGURL>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dt_sand_pd-%281%29.jpg?ft=1788434394&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dt_sand_zd-%281%29.jpg?ft=1788434452&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/039.jpg?ft=1726498280&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/116.jpg?ft=1726498280&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/118.jpg?ft=1726498280&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/139.jpg?ft=1726498282&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/179.jpg?ft=1726498282&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_9789_23.jpg?ft=1752041067&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<PRICE_VAT>57.00</PRICE_VAT>
-<MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
-<CATEGORYTEXT>Glami.sk | Dámske oblečenie a obuv | Dámske oblečenie | Dámska nočná bielizeň | Dámske pyžamá | Dámske pyžamá s dlhými nohavicami</CATEGORYTEXT>
-<PARAM><PARAM_NAME>veľkosť</PARAM_NAME><VAL>S</VAL></PARAM>
-<PARAM><PARAM_NAME>size_system</PARAM_NAME><VAL>INT</VAL></PARAM>
-<PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>nefarbené</VAL></PARAM>
-<PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
-<GTIN>8586029951322</GTIN>
-</SHOPITEM>
-<SHOPITEM>
 <ITEM_ID>DAM-DPYZ-NAT-XL</ITEM_ID>
 <ITEMGROUP_ID>DAM-DPYZ-NAT</ITEMGROUP_ID>
 <PRODUCTNAME>Dámske pyžamo z biobavlny - nefarbené</PRODUCTNAME>
@@ -1693,7 +1672,7 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>merlot</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>60%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>polyester</VAL><PERCENTAGE>40%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>5</DELIVERY_DATE>
 <GTIN>8586029951445</GTIN>
 </SHOPITEM>
 <SHOPITEM>
@@ -1914,7 +1893,7 @@
 <ITEM_ID>DAM-DSET-WSAND-L</ITEM_ID>
 <ITEMGROUP_ID>DAM-DSET-WSAND</ITEMGROUP_ID>
 <PRODUCTNAME>Dámsky set s dlhými nohavicami - Wool Sand</PRODUCTNAME>
-<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do 3 dní | Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Pre pohodlné nosenie na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s makkou gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielničke.]]></DESCRIPTION>
+<DESCRIPTION><![CDATA[Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Pre pohodlné nosenie na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s makkou gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielničke.]]></DESCRIPTION>
 <URL>https://www.vacice.sk/damsky-set-s-dlhymi-nohavicami-wool-sand/</URL>
 <IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/damsky-set-s-dlhymi-nohavicami-wool-sand-906.jpg?ft=1773916062&amp;nwtrmrk=1</IMGURL>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dsc08530.jpg?ft=1777372195&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
@@ -1936,14 +1915,14 @@
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>viskóza</VAL><PERCENTAGE>33%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>vlna</VAL><PERCENTAGE>12%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>polyester</VAL><PERCENTAGE>10%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>5</DELIVERY_DATE>
+<DELIVERY_DATE>0</DELIVERY_DATE>
 <GTIN>8586029951551</GTIN>
 </SHOPITEM>
 <SHOPITEM>
 <ITEM_ID>DAM-DSET-WSAND-XL</ITEM_ID>
 <ITEMGROUP_ID>DAM-DSET-WSAND</ITEMGROUP_ID>
 <PRODUCTNAME>Dámsky set s dlhými nohavicami - Wool Sand</PRODUCTNAME>
-<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do 3 dní | Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Pre pohodlné nosenie na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s makkou gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielničke.]]></DESCRIPTION>
+<DESCRIPTION><![CDATA[Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Pre pohodlné nosenie na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s makkou gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielničke.]]></DESCRIPTION>
 <URL>https://www.vacice.sk/damsky-set-s-dlhymi-nohavicami-wool-sand/</URL>
 <IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/damsky-set-s-dlhymi-nohavicami-wool-sand-906.jpg?ft=1773916062&amp;nwtrmrk=1</IMGURL>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dsc08530.jpg?ft=1777372195&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
@@ -1972,7 +1951,7 @@
 <ITEM_ID>DAM-KSET-CIER-L</ITEM_ID>
 <ITEMGROUP_ID>DAM-KSET-CIER</ITEMGROUP_ID>
 <PRODUCTNAME>Dámsky set s krátkymi nohavicami - Čierny</PRODUCTNAME>
-<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do 3 dní | Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Máme novú edíciu dámskych setov. Pre pohodlné nosenie či na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielnič]]></DESCRIPTION>
+<DESCRIPTION><![CDATA[Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Máme novú edíciu dámskych setov. Pre pohodlné nosenie či na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielnič]]></DESCRIPTION>
 <URL>https://www.vacice.sk/damsky-set-s-kratkymi-nohavicami-cierny/</URL>
 <IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/damsky-set-s-kratkymi-nohavicami-cierny-832.jpg?ft=1757061097&amp;nwtrmrk=1</IMGURL>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/ds_cierny_49.jpg?ft=1788433525&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
@@ -1998,7 +1977,7 @@
 <ITEM_ID>DAM-KSET-CIER-M</ITEM_ID>
 <ITEMGROUP_ID>DAM-KSET-CIER</ITEMGROUP_ID>
 <PRODUCTNAME>Dámsky set s krátkymi nohavicami - Čierny</PRODUCTNAME>
-<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do 3 dní | Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Máme novú edíciu dámskych setov. Pre pohodlné nosenie či na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielnič]]></DESCRIPTION>
+<DESCRIPTION><![CDATA[Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Máme novú edíciu dámskych setov. Pre pohodlné nosenie či na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielnič]]></DESCRIPTION>
 <URL>https://www.vacice.sk/damsky-set-s-kratkymi-nohavicami-cierny/</URL>
 <IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/damsky-set-s-kratkymi-nohavicami-cierny-832.jpg?ft=1757061097&amp;nwtrmrk=1</IMGURL>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/ds_cierny_49.jpg?ft=1788433525&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
@@ -2024,7 +2003,7 @@
 <ITEM_ID>DAM-KSET-CIER-S</ITEM_ID>
 <ITEMGROUP_ID>DAM-KSET-CIER</ITEMGROUP_ID>
 <PRODUCTNAME>Dámsky set s krátkymi nohavicami - Čierny</PRODUCTNAME>
-<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do 3 dní | Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Máme novú edíciu dámskych setov. Pre pohodlné nosenie či na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielnič]]></DESCRIPTION>
+<DESCRIPTION><![CDATA[Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Máme novú edíciu dámskych setov. Pre pohodlné nosenie či na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielnič]]></DESCRIPTION>
 <URL>https://www.vacice.sk/damsky-set-s-kratkymi-nohavicami-cierny/</URL>
 <IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/damsky-set-s-kratkymi-nohavicami-cierny-832.jpg?ft=1757061097&amp;nwtrmrk=1</IMGURL>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/ds_cierny_49.jpg?ft=1788433525&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
@@ -2050,7 +2029,7 @@
 <ITEM_ID>DAM-KSET-CIER-XL</ITEM_ID>
 <ITEMGROUP_ID>DAM-KSET-CIER</ITEMGROUP_ID>
 <PRODUCTNAME>Dámsky set s krátkymi nohavicami - Čierny</PRODUCTNAME>
-<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do 3 dní | Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Máme novú edíciu dámskych setov. Pre pohodlné nosenie či na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielnič]]></DESCRIPTION>
+<DESCRIPTION><![CDATA[Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Máme novú edíciu dámskych setov. Pre pohodlné nosenie či na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielnič]]></DESCRIPTION>
 <URL>https://www.vacice.sk/damsky-set-s-kratkymi-nohavicami-cierny/</URL>
 <IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/damsky-set-s-kratkymi-nohavicami-cierny-832.jpg?ft=1757061097&amp;nwtrmrk=1</IMGURL>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/ds_cierny_49.jpg?ft=1788433525&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
@@ -2076,7 +2055,7 @@
 <ITEM_ID>DAM-KSET-CIER-XS</ITEM_ID>
 <ITEMGROUP_ID>DAM-KSET-CIER</ITEMGROUP_ID>
 <PRODUCTNAME>Dámsky set s krátkymi nohavicami - Čierny</PRODUCTNAME>
-<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do 3 dní | Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Máme novú edíciu dámskych setov. Pre pohodlné nosenie či na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielnič]]></DESCRIPTION>
+<DESCRIPTION><![CDATA[Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Máme novú edíciu dámskych setov. Pre pohodlné nosenie či na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielnič]]></DESCRIPTION>
 <URL>https://www.vacice.sk/damsky-set-s-kratkymi-nohavicami-cierny/</URL>
 <IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/damsky-set-s-kratkymi-nohavicami-cierny-832.jpg?ft=1757061097&amp;nwtrmrk=1</IMGURL>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/ds_cierny_49.jpg?ft=1788433525&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
@@ -2224,29 +2203,6 @@
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <DELIVERY_DATE>0</DELIVERY_DATE>
 <GTIN>8586029951803</GTIN>
-</SHOPITEM>
-<SHOPITEM>
-<ITEM_ID>DAM-KSET-LSAND-M</ITEM_ID>
-<ITEMGROUP_ID>DAM-KSET-LSAND</ITEMGROUP_ID>
-<PRODUCTNAME>Dámsky set s krátkymi nohavicami - Light Sand</PRODUCTNAME>
-<DESCRIPTION><![CDATA[Potrebujete sa cítiť pohodlne doma, na ihrisku, v práci, či na nákupoch? Máme novú edíciu dámskych setov. Pre pohodlné nosenie či na doma, či na von. Voľný vzdušný strih, ktorý zakryje čo má zakryť, s gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité zo 100% bavlny u nás v dielničke.]]></DESCRIPTION>
-<URL>https://www.vacice.sk/damsky-set-s-kratkymi-nohavicami-light-sand/</URL>
-<IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/damsky-set-s-kratkymi-nohavicami-light-sand-943.jpg?ft=1786956285&amp;nwtrmrk=1</IMGURL>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_0539_11zon.jpg?ft=1786955369&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/ds_sand_.jpg?ft=1786956367&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dt_sand_pd.jpg?ft=1781087051&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dt_sand_zd.jpg?ft=1781087051&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dkg_sand_pd.jpg?ft=1781087052&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dkg_sand_zd.jpg?ft=1781087051&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<PRICE_VAT>80.00</PRICE_VAT>
-<MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
-<CATEGORYTEXT>Glami.sk | Dámske oblečenie a obuv | Dámske oblečenie | Dámska nočná bielizeň | Dámske pyžamá | Dámske kraťasové pyžamá</CATEGORYTEXT>
-<PARAM><PARAM_NAME>veľkosť</PARAM_NAME><VAL>M</VAL></PARAM>
-<PARAM><PARAM_NAME>size_system</PARAM_NAME><VAL>INT</VAL></PARAM>
-<PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>light sand</VAL></PARAM>
-<PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
-<GTIN>8586029951810</GTIN>
 </SHOPITEM>
 <SHOPITEM>
 <ITEM_ID>DAM-KSET-LSAND-S</ITEM_ID>
@@ -2464,7 +2420,7 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>cream</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>5</DELIVERY_DATE>
+<DELIVERY_DATE>0</DELIVERY_DATE>
 <GTIN>745314676335</GTIN>
 </SHOPITEM>
 <SHOPITEM>
@@ -2489,7 +2445,7 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>cream</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>5</DELIVERY_DATE>
 <GTIN>745314676342</GTIN>
 </SHOPITEM>
 <SHOPITEM>
@@ -2954,7 +2910,7 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>eucalyptus</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>5</DELIVERY_DATE>
 <GTIN>745314676410</GTIN>
 </SHOPITEM>
 <SHOPITEM>
@@ -2979,7 +2935,7 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>eucalyptus</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>5</DELIVERY_DATE>
 <GTIN>745314676458</GTIN>
 </SHOPITEM>
 <SHOPITEM>
@@ -3003,7 +2959,7 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>hnedý</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>5</DELIVERY_DATE>
 <GTIN>8586029954347</GTIN>
 </SHOPITEM>
 <SHOPITEM>
@@ -3027,7 +2983,7 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>hnedý</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>5</DELIVERY_DATE>
 <GTIN>8586029954354</GTIN>
 </SHOPITEM>
 <SHOPITEM>
@@ -3051,7 +3007,7 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>hnedý</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>5</DELIVERY_DATE>
 <GTIN>8586029954330</GTIN>
 </SHOPITEM>
 <SHOPITEM>
@@ -3075,8 +3031,32 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>hnedý</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>5</DELIVERY_DATE>
 <GTIN>8586029954361</GTIN>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>DAM-KPYZ-NAT-L</ITEM_ID>
+<ITEMGROUP_ID>DAM-KPYZ-NAT</ITEMGROUP_ID>
+<PRODUCTNAME>Krátke dámske pyžamo z biobavlny - nefarbené</PRODUCTNAME>
+<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do 3 dní | Dámske pyžamo z jemnej biobavlny je navrhnuté pre maximálne pohodlie počas spánku. Materiál overený našimi najmenšími – z rovnakej biobavlny šijeme aj detské košieľky a pyžamká, ktoré si deti obľúbili pre ich mäkkosť a príjemný dotyk na pokožke. Biobavlnu si dávame vyrábať v pletiarni na Slovensku.]]></DESCRIPTION>
+<URL>https://www.vacice.sk/kratke-damske-pyzamo-z-biobavlny-nefarbene/</URL>
+<IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/kratke-damske-pyzamo-z-biobavlny-nefarbene-838.jpg?ft=1750847531&amp;nwtrmrk=1</IMGURL>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_4024-velkej-velkosti.jpg?ft=1770810475&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_4026-velkej-velkosti.jpg?ft=1770810475&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_4031-velkej-velkosti.jpg?ft=1770810475&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_4035-velkej-velkosti.jpg?ft=1770810475&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_4053-velkej-velkosti.jpg?ft=1770810475&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_4066-velkej-velkosti.jpg?ft=1770810475&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_9789_88.jpg?ft=1752041088&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<PRICE_VAT>51.30</PRICE_VAT>
+<MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
+<CATEGORYTEXT>Glami.sk | Dámske oblečenie a obuv | Dámske oblečenie | Dámska nočná bielizeň | Dámske pyžamá | Dámske kraťasové pyžamá</CATEGORYTEXT>
+<PARAM><PARAM_NAME>veľkosť</PARAM_NAME><VAL>L</VAL></PARAM>
+<PARAM><PARAM_NAME>size_system</PARAM_NAME><VAL>INT</VAL></PARAM>
+<PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>nefarbené</VAL></PARAM>
+<PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<GTIN>8586029951605</GTIN>
 </SHOPITEM>
 <SHOPITEM>
 <ITEM_ID>DAM-KPYZ-NAT-XL</ITEM_ID>
@@ -3101,6 +3081,30 @@
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <DELIVERY_DATE>0</DELIVERY_DATE>
 <GTIN>8586029951636</GTIN>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>DAM-KPYZ-NAT-XS</ITEM_ID>
+<ITEMGROUP_ID>DAM-KPYZ-NAT</ITEMGROUP_ID>
+<PRODUCTNAME>Krátke dámske pyžamo z biobavlny - nefarbené</PRODUCTNAME>
+<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do 3 dní | Dámske pyžamo z jemnej biobavlny je navrhnuté pre maximálne pohodlie počas spánku. Materiál overený našimi najmenšími – z rovnakej biobavlny šijeme aj detské košieľky a pyžamká, ktoré si deti obľúbili pre ich mäkkosť a príjemný dotyk na pokožke. Biobavlnu si dávame vyrábať v pletiarni na Slovensku.]]></DESCRIPTION>
+<URL>https://www.vacice.sk/kratke-damske-pyzamo-z-biobavlny-nefarbene/</URL>
+<IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/kratke-damske-pyzamo-z-biobavlny-nefarbene-838.jpg?ft=1750847531&amp;nwtrmrk=1</IMGURL>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_4024-velkej-velkosti.jpg?ft=1770810475&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_4026-velkej-velkosti.jpg?ft=1770810475&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_4031-velkej-velkosti.jpg?ft=1770810475&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_4035-velkej-velkosti.jpg?ft=1770810475&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_4053-velkej-velkosti.jpg?ft=1770810475&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_4066-velkej-velkosti.jpg?ft=1770810475&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_9789_88.jpg?ft=1752041088&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<PRICE_VAT>51.30</PRICE_VAT>
+<MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
+<CATEGORYTEXT>Glami.sk | Dámske oblečenie a obuv | Dámske oblečenie | Dámska nočná bielizeň | Dámske pyžamá | Dámske kraťasové pyžamá</CATEGORYTEXT>
+<PARAM><PARAM_NAME>veľkosť</PARAM_NAME><VAL>XS</VAL></PARAM>
+<PARAM><PARAM_NAME>size_system</PARAM_NAME><VAL>INT</VAL></PARAM>
+<PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>nefarbené</VAL></PARAM>
+<PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<GTIN>8586029951643</GTIN>
 </SHOPITEM>
 <SHOPITEM>
 <ITEM_ID>402/S-M</ITEM_ID>
@@ -3187,6 +3191,26 @@
 <GTIN>8586029950042</GTIN>
 </SHOPITEM>
 <SHOPITEM>
+<ITEM_ID>LV-MER-AIR-L</ITEM_ID>
+<ITEMGROUP_ID>LV-MER-AIR</ITEMGROUP_ID>
+<PRODUCTNAME>Letný jednovrstvový merino/tencel spací vak - AIR - TOG 0.5</PRODUCTNAME>
+<DESCRIPTION><![CDATA[Ani v teplej noci sa bábätko nepotí a nemusíte ho prikrývať. Ľahké merino odvádza vlhkosť, takže spí pokojne aj v lete.]]></DESCRIPTION>
+<URL>https://www.vacice.sk/letny-merino-tencel-spaci-vak-air/</URL>
+<IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/letny-merino-spaci-vak-air-944.jpg?ft=1783093760&amp;nwtrmrk=1</IMGURL>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/lv-air-zd_11zon.jpg?ft=1783093752&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/lv-air-detail_11zon.jpg?ft=1783093752&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<PRICE_VAT>107.10</PRICE_VAT>
+<MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
+<CATEGORYTEXT>Glami.sk | Detské oblečenie a obuv | Detské oblečenie | Oblečenie pre bábätká | Baby nočné prádlo</CATEGORYTEXT>
+<PARAM><PARAM_NAME>veľkosť</PARAM_NAME><VAL>L</VAL></PARAM>
+<PARAM><PARAM_NAME>size_system</PARAM_NAME><VAL>INT</VAL></PARAM>
+<PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>air</VAL></PARAM>
+<PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>50%</PERCENTAGE></PARAM>
+<PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>lyocell</VAL><PERCENTAGE>50%</PERCENTAGE></PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<GTIN>8586029953449</GTIN>
+</SHOPITEM>
+<SHOPITEM>
 <ITEM_ID>LV-MER-ZLTA-L</ITEM_ID>
 <ITEMGROUP_ID>LV-MER-ZLTA</ITEMGROUP_ID>
 <PRODUCTNAME>Letný merino spací vak - Retro žltý - 0.5 - 1.0 TOG</PRODUCTNAME>
@@ -3227,6 +3251,27 @@
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <DELIVERY_DATE>0</DELIVERY_DATE>
 <GTIN>8586029953593</GTIN>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>LV-MER-CERV-XL</ITEM_ID>
+<ITEMGROUP_ID>LV-MER-CERV</ITEMGROUP_ID>
+<PRODUCTNAME>Letný merino/tencel spací vak - Retro červený - 0.5 - 1.0 TOG</PRODUCTNAME>
+<DESCRIPTION><![CDATA[Ani v teplej noci sa bábätko nepotí a nemusíte ho prikrývať. Ľahké merino odvádza vlhkosť, takže spí pokojne aj v lete.]]></DESCRIPTION>
+<URL>https://www.vacice.sk/merino-letny-spaci-vak-retro-cerveny/</URL>
+<IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/merino-letny-spaci-vak-retro-cerveny-934.jpg?ft=1776842623&amp;nwtrmrk=1</IMGURL>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/lv-zd.jpg.jpg?ft=1776842536&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dsc09260.jpg?ft=1776406273&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dsc09278.jpg?ft=1776406274&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dsc09291.jpg?ft=1776406274&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<PRICE_VAT>126.65</PRICE_VAT>
+<MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
+<CATEGORYTEXT>Glami.sk | Detské oblečenie a obuv | Detské oblečenie | Oblečenie pre bábätká | Baby nočné prádlo</CATEGORYTEXT>
+<PARAM><PARAM_NAME>veľkosť</PARAM_NAME><VAL>XL</VAL></PARAM>
+<PARAM><PARAM_NAME>size_system</PARAM_NAME><VAL>INT</VAL></PARAM>
+<PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>retro červený</VAL></PARAM>
+<PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<GTIN>8586029953517</GTIN>
 </SHOPITEM>
 <SHOPITEM>
 <ITEM_ID>LV-MER-MODRA-XL</ITEM_ID>
@@ -4601,7 +4646,7 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>eucalyptus</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>5</DELIVERY_DATE>
 <GTIN>8586029954262</GTIN>
 </SHOPITEM>
 <SHOPITEM>
@@ -4643,7 +4688,7 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>eucalyptus</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>5</DELIVERY_DATE>
 <GTIN>8586029954286</GTIN>
 </SHOPITEM>
 <SHOPITEM>
@@ -4727,7 +4772,7 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>hnedý</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>5</DELIVERY_DATE>
 <GTIN>8586029954323</GTIN>
 </SHOPITEM>
 <SHOPITEM>

@@ -1,7 +1,7 @@
 name: Glami feed
 on:
   schedule:
-    - cron: "17 4,10,16 * * *"   # 3x denne (UTC)
+    - cron: "17 * * * *"   # každú hodinu (Heureka kontroluje dostupnosť)
   workflow_dispatch:
 permissions:
   contents: write
