@@ -491,7 +491,7 @@
 <PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>eucalyptus</VAL></PARAM>
 <PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>5</DELIVERY_DATE>
+<DELIVERY_DATE>0</DELIVERY_DATE>
 <GTIN>745314676359</GTIN>
 </SHOPITEM>
 <SHOPITEM>
@@ -678,6 +678,30 @@
 <PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
 <DELIVERY_DATE>0</DELIVERY_DATE>
 <GTIN>8586029950820</GTIN>
+</SHOPITEM>
+<SHOPITEM>
+<ITEM_ID>CV-MER-LSTONE-S</ITEM_ID>
+<ITEMGROUP_ID>CV-MER-LSTONE</ITEMGROUP_ID>
+<PRODUCTNAME>Celoročný merino spací vak - Light Stone - 2.5 TOG</PRODUCTNAME>
+<DESCRIPTION><![CDATA[Bábätko sa v noci neodkryje, nepotí sa ani nemrzne. Merino udrží stálu teplotu, takže spí pokojnejšie v bežne vykúrenej izbe po celý rok.]]></DESCRIPTION>
+<URL>https://www.vacice.sk/celorocny-merino-spaci-vak-light-stone/</URL>
+<IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/celorocny-merino-spaci-vak-light-stone-870.jpg?ft=1779955591&amp;nwtrmrk=1</IMGURL>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dsc08390.jpg?ft=1777369505&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dsc08388.jpg?ft=1777369505&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dsc01362-2.jpg?ft=1770810411&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dsc01370-2.jpg?ft=1770810411&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dsc01401-2.jpg?ft=1770810412&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/vak_spravna_velkost.png?ft=1738761021&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
+<PRICE_VAT>145.00</PRICE_VAT>
+<MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
+<CATEGORYTEXT>Glami.sk | Detské oblečenie a obuv | Detské oblečenie | Oblečenie pre bábätká | Baby nočné prádlo</CATEGORYTEXT>
+<PARAM><PARAM_NAME>veľkosť</PARAM_NAME><VAL>S</VAL></PARAM>
+<PARAM><PARAM_NAME>size_system</PARAM_NAME><VAL>INT</VAL></PARAM>
+<PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>light stone</VAL></PARAM>
+<PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>bavlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
+<PARAM><PARAM_NAME>materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>100%</PERCENTAGE></PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<GTIN>8586029950837</GTIN>
 </SHOPITEM>
 <SHOPITEM>
 <ITEM_ID>CV-MER-LILA-M</ITEM_ID>
