@@ -44,8 +44,10 @@ def conv(item):
     # Heureka IDs: only letters, digits, - and _ (max 36)
     for t_ in ("ITEM_ID", "ITEMGROUP_ID"):
         item = re.sub(r"<%s>(.*?)</%s>" % (t_, t_), lambda m: "<%s>%s</%s>" % (t_, re.sub(r"[^A-Za-z0-9_-]", "-", m.group(1))[:36], t_), item)
-    item = re.sub(r"<URL>(.*?)</URL>", lambda m: "<URL>%s%sutm_source=heureka&amp;utm_medium=cpc&amp;utm_campaign=heureka-sk</URL>" % (m.group(1), "&amp;" if "?" in m.group(1) else "?"), item)
     size = re.search(r"<PARAM_NAME>veľkosť</PARAM_NAME><VAL>(.*?)</VAL>", item)
+    # Heureka needs a unique URL per offer: add the size as an extra parameter
+    var = "&amp;velkost=" + re.sub(r"[^A-Za-z0-9]", "", size.group(1)) if size else ""
+    item = re.sub(r"<URL>(.*?)</URL>", lambda m: "<URL>%s%sutm_source=heureka&amp;utm_medium=cpc&amp;utm_campaign=heureka-sk%s</URL>" % (m.group(1), "&amp;" if "?" in m.group(1) else "?", var), item)
     name = re.search(r"<PRODUCTNAME>(.*?)</PRODUCTNAME>", item).group(1)
     full = "Vačice " + name + (" - veľkosť " + size.group(1) if size else "")
     item = item.replace("<PRODUCTNAME>%s</PRODUCTNAME>" % name, "<PRODUCTNAME>%s</PRODUCTNAME>\n<PRODUCT>%s</PRODUCT>" % (full, full), 1)
