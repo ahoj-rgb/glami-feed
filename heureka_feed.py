@@ -31,6 +31,9 @@ RULES = [  # (ITEMGROUP_ID prefix, Heureka category); first match wins
     ("DAM-KPYZ-", WOMEN + "Dámska nočná bielizeň a župany | Dámske pyžamá"),
     ("DAMPO-", WOMEN + "Dámska spodná bielizeň | Dámske ponožky"),
 ]
+# shipping as shown in the e-shop checkout (26. 11. 2026): free from 180 EUR, cash on delivery +1,50 EUR
+DELIVERIES = (("DPD_BOX", 2.60), ("DPD", 4.50))
+FREE_FROM, COD_FEE = 180, 1.50
 PARAM_NAMES = {"veľkosť": "Veľkosť", "farba": "Farba", "materiál": "Materiál", "materiál podšívky": "Materiál podšívky"}
 
 
@@ -60,6 +63,11 @@ def conv(item):
     item = re.sub(r"\n?<PARAM>.*?</PARAM>", "", item)
     # web says "Nie je skladom, ušijeme do 3 dní" for made-to-order sizes
     item = item.replace("<DELIVERY_DATE>5</DELIVERY_DATE>", "<DELIVERY_DATE>3</DELIVERY_DATE>")
+    price = float(re.search(r"<PRICE_VAT>(.*?)</PRICE_VAT>", item).group(1).replace(",", "."))
+    deliv = "".join(
+        "\n<DELIVERY><DELIVERY_ID>%s</DELIVERY_ID><DELIVERY_PRICE>%.2f</DELIVERY_PRICE><DELIVERY_PRICE_COD>%.2f</DELIVERY_PRICE_COD></DELIVERY>"
+        % (d, 0 if price >= FREE_FROM else c, (0 if price >= FREE_FROM else c) + COD_FEE) for d, c in DELIVERIES)
+    item = re.sub(r"(<DELIVERY_DATE>.*?</DELIVERY_DATE>)", lambda m: m.group(1) + deliv, item, count=1)
     return item.replace("<DELIVERY_DATE>", "\n".join(params) + "\n<DELIVERY_DATE>", 1)
 
 
