@@ -1385,7 +1385,7 @@
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_7982_11zon.jpg?ft=1773915657&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_7999_11zon.jpg?ft=1773915657&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_8275_11zon.jpg?ft=1773915659&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<PRICE_VAT>160.00</PRICE_VAT>
+<PRICE_VAT>144.00</PRICE_VAT>
 <MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
 <CATEGORYTEXT>Heureka.sk | Detský tovar | Vybavenie detskej izby | Detské spacie vaky a zavinovačky</CATEGORYTEXT>
 <PARAM><PARAM_NAME>Veľkosť</PARAM_NAME><VAL>M</VAL></PARAM>
@@ -1417,7 +1417,7 @@
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_7982_11zon.jpg?ft=1773915657&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_7999_11zon.jpg?ft=1773915657&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_8275_11zon.jpg?ft=1773915659&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<PRICE_VAT>175.00</PRICE_VAT>
+<PRICE_VAT>157.50</PRICE_VAT>
 <MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
 <CATEGORYTEXT>Heureka.sk | Detský tovar | Vybavenie detskej izby | Detské spacie vaky a zavinovačky</CATEGORYTEXT>
 <PARAM><PARAM_NAME>Veľkosť</PARAM_NAME><VAL>L</VAL></PARAM>
@@ -1449,7 +1449,7 @@
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_7982_11zon.jpg?ft=1773915657&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_7999_11zon.jpg?ft=1773915657&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_8275_11zon.jpg?ft=1773915659&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<PRICE_VAT>145.00</PRICE_VAT>
+<PRICE_VAT>130.50</PRICE_VAT>
 <MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
 <CATEGORYTEXT>Heureka.sk | Detský tovar | Vybavenie detskej izby | Detské spacie vaky a zavinovačky</CATEGORYTEXT>
 <PARAM><PARAM_NAME>Veľkosť</PARAM_NAME><VAL>S</VAL></PARAM>
@@ -1481,7 +1481,7 @@
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_7982_11zon.jpg?ft=1773915657&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_7999_11zon.jpg?ft=1773915657&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/img_8275_11zon.jpg?ft=1773915659&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<PRICE_VAT>190.00</PRICE_VAT>
+<PRICE_VAT>171.00</PRICE_VAT>
 <MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
 <CATEGORYTEXT>Heureka.sk | Detský tovar | Vybavenie detskej izby | Detské spacie vaky a zavinovačky</CATEGORYTEXT>
 <PARAM><PARAM_NAME>Veľkosť</PARAM_NAME><VAL>XL</VAL></PARAM>
@@ -1492,8 +1492,8 @@
 <PARAM><PARAM_NAME>Materiál</PARAM_NAME><VAL>polyester</VAL></PARAM>
 <PARAM><PARAM_NAME>Materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL></PARAM>
 <DELIVERY_DATE>0</DELIVERY_DATE>
-<DELIVERY><DELIVERY_ID>DPD_BOX</DELIVERY_ID><DELIVERY_PRICE>0.00</DELIVERY_PRICE><DELIVERY_PRICE_COD>1.50</DELIVERY_PRICE_COD></DELIVERY>
-<DELIVERY><DELIVERY_ID>DPD</DELIVERY_ID><DELIVERY_PRICE>0.00</DELIVERY_PRICE><DELIVERY_PRICE_COD>1.50</DELIVERY_PRICE_COD></DELIVERY>
+<DELIVERY><DELIVERY_ID>DPD_BOX</DELIVERY_ID><DELIVERY_PRICE>2.60</DELIVERY_PRICE><DELIVERY_PRICE_COD>4.10</DELIVERY_PRICE_COD></DELIVERY>
+<DELIVERY><DELIVERY_ID>DPD</DELIVERY_ID><DELIVERY_PRICE>4.50</DELIVERY_PRICE><DELIVERY_PRICE_COD>6.00</DELIVERY_PRICE_COD></DELIVERY>
 <EAN>0745314676137</EAN>
 </SHOPITEM>
 <SHOPITEM>
@@ -1672,33 +1672,6 @@
 <DELIVERY><DELIVERY_ID>DPD_BOX</DELIVERY_ID><DELIVERY_PRICE>2.60</DELIVERY_PRICE><DELIVERY_PRICE_COD>4.10</DELIVERY_PRICE_COD></DELIVERY>
 <DELIVERY><DELIVERY_ID>DPD</DELIVERY_ID><DELIVERY_PRICE>4.50</DELIVERY_PRICE><DELIVERY_PRICE_COD>6.00</DELIVERY_PRICE_COD></DELIVERY>
 <EAN>8586029951407</EAN>
-</SHOPITEM>
-<SHOPITEM>
-<ITEM_ID>DAM-DSET-MERL-S</ITEM_ID>
-<ITEMGROUP_ID>DAM-DSET-MERL</ITEMGROUP_ID>
-<PRODUCTNAME>Vačice Dámsky set s dlhými nohavicami - Merlot - veľkosť S</PRODUCTNAME>
-<PRODUCT>Vačice Dámsky set s dlhými nohavicami - Merlot - veľkosť S</PRODUCT>
-<DESCRIPTION><![CDATA[Potrebujete sa cítiť elegantne a zároveň pohodlne doma, na ihrisku, v práci, či na nákupoch? Máme novú edíciu dámskych setov. Pre pohodlné nosenie či na doma, či na von. Voľný vzdušný strih, ktorý decentne zakryje čo má zakryť, s gumičkou v páse a s decentnou výšivkou. Veľkosti od XS - XL. Ušité u nás v dielničke.]]></DESCRIPTION>
-<URL>https://www.vacice.sk/damsky-set-s-dlhymi-nohavicami-merlot/?utm_source=heureka&amp;utm_medium=cpc&amp;utm_campaign=heureka-sk&amp;velkost=S</URL>
-<IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/damsky-set-s-dlhymi-nohavicami-merlot-963.jpg?ft=1795683081&amp;nwtrmrk=1</IMGURL>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/damsky-set-s-dlhymi-nohavicami-merlot-963.jpg?ft=1795683091&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dtric_merlot_pd.jpg?ft=1790070237&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dtric_merlot_zd.jpg?ft=1790070236&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dgate_merlot_pd.jpg?ft=1790070239&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dgate_merlot_zd.jpg?ft=1790070236&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/merlot-set-detail.jpg?ft=1795683089&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/tri-sety_36.jpg?ft=1795683110&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<PRICE_VAT>84.15</PRICE_VAT>
-<MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
-<CATEGORYTEXT>Heureka.sk | Oblečenie, obuv a doplnky | Dámske oblečenie | Dámska nočná bielizeň a župany | Dámske pyžamá</CATEGORYTEXT>
-<PARAM><PARAM_NAME>Veľkosť</PARAM_NAME><VAL>S</VAL></PARAM>
-<PARAM><PARAM_NAME>Farba</PARAM_NAME><VAL>merlot</VAL></PARAM>
-<PARAM><PARAM_NAME>Materiál</PARAM_NAME><VAL>bavlna</VAL></PARAM>
-<PARAM><PARAM_NAME>Materiál</PARAM_NAME><VAL>polyester</VAL></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
-<DELIVERY><DELIVERY_ID>DPD_BOX</DELIVERY_ID><DELIVERY_PRICE>2.60</DELIVERY_PRICE><DELIVERY_PRICE_COD>4.10</DELIVERY_PRICE_COD></DELIVERY>
-<DELIVERY><DELIVERY_ID>DPD</DELIVERY_ID><DELIVERY_PRICE>4.50</DELIVERY_PRICE><DELIVERY_PRICE_COD>6.00</DELIVERY_PRICE_COD></DELIVERY>
-<EAN>8586029951421</EAN>
 </SHOPITEM>
 <SHOPITEM>
 <ITEM_ID>DAM-DSET-MERL-XL</ITEM_ID>
@@ -4596,29 +4569,6 @@
 <DELIVERY><DELIVERY_ID>DPD_BOX</DELIVERY_ID><DELIVERY_PRICE>2.60</DELIVERY_PRICE><DELIVERY_PRICE_COD>4.10</DELIVERY_PRICE_COD></DELIVERY>
 <DELIVERY><DELIVERY_ID>DPD</DELIVERY_ID><DELIVERY_PRICE>4.50</DELIVERY_PRICE><DELIVERY_PRICE_COD>6.00</DELIVERY_PRICE_COD></DELIVERY>
 <EAN>8586029953357</EAN>
-</SHOPITEM>
-<SHOPITEM>
-<ITEM_ID>KOS-MER-TEN-STO-80</ITEM_ID>
-<ITEMGROUP_ID>KOS-MER-TEN-STO</ITEMGROUP_ID>
-<PRODUCTNAME>Vačice Nočná košieľka - Merino-Tencel - Stone - veľkosť 80</PRODUCTNAME>
-<PRODUCT>Vačice Nočná košieľka - Merino-Tencel - Stone - veľkosť 80</PRODUCT>
-<DESCRIPTION><![CDATA[| Čo nie je skladom, ušijeme do týždňa | Mäkučká šedá nočná košieľka s dlhými rukávmi z jemného mixu merina a tencelu je ideálna na pohodlný a kvalitný spánok vašich detí. Termoregulačná a priedušná merino vlna nezadržiava pot, takže vaše ratolesti budú spinkať v príjemnom suchu a teple počas celého roka. Premyslený strih a praktické cvoky umožňujú je]]></DESCRIPTION>
-<URL>https://www.vacice.sk/nocna-kosielka-merino-tencel-stone/?utm_source=heureka&amp;utm_medium=cpc&amp;utm_campaign=heureka-sk&amp;velkost=80</URL>
-<IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/nocna-kosielka-merino-tencel-stone-871.jpg?ft=1777372504&amp;nwtrmrk=1</IMGURL>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dsc08599.jpg?ft=1777372526&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dsc08598.jpg?ft=1777372526&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dsc01352-2.jpg?ft=1770810410&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/dsc01401-2.jpg?ft=1770810412&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<PRICE_VAT>39.20</PRICE_VAT>
-<MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
-<CATEGORYTEXT>Heureka.sk | Oblečenie, obuv a doplnky | Detské oblečenie | Detská nočná bielizeň a župany | Detské nočné košieľky</CATEGORYTEXT>
-<PARAM><PARAM_NAME>Veľkosť</PARAM_NAME><VAL>80</VAL></PARAM>
-<PARAM><PARAM_NAME>Farba</PARAM_NAME><VAL>stone</VAL></PARAM>
-<PARAM><PARAM_NAME>Materiál</PARAM_NAME><VAL>merino vlna</VAL></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
-<DELIVERY><DELIVERY_ID>DPD_BOX</DELIVERY_ID><DELIVERY_PRICE>2.60</DELIVERY_PRICE><DELIVERY_PRICE_COD>4.10</DELIVERY_PRICE_COD></DELIVERY>
-<DELIVERY><DELIVERY_ID>DPD</DELIVERY_ID><DELIVERY_PRICE>4.50</DELIVERY_PRICE><DELIVERY_PRICE_COD>6.00</DELIVERY_PRICE_COD></DELIVERY>
-<EAN>8586029953364</EAN>
 </SHOPITEM>
 <SHOPITEM>
 <ITEM_ID>DET-PYZ-NEF-128</ITEM_ID>
