@@ -46,6 +46,10 @@ RULES = [
     ("DAM-KPYZ-", WOMEN + " | Dámska nočná bielizeň | Dámske pyžamá | Dámske kraťasové pyžamá"),
     ("DAMPO-", WOMEN + " | Dámska spodná bielizeň | Dámske ponožky"),
 ]
+IMG_BLOCK = [  # e-shop images not allowed on Glami (wearing guide drawing, Instagram screenshot, label/logo close-ups)
+    "vak_spravna_velkost", "img_7913", "dsc01352-2", "dgd_detail_11zon", "dsc08371", "dsc08390",
+    "dsc08485", "dsc08347", "dsc00851", "dsc01467",
+]
 EXCLUDE = {"CV-MER-CERFOLK", "CV-MER-MODFOLK"}  # Folk-love: user does not list it on marketplaces
 
 MATERIALS = [  # (pattern, Glami value)
@@ -195,6 +199,11 @@ def main(out):
             continue
         imgs = [tag(it, "g:image_link")] + [html.unescape(x).strip() for x in re.findall(
             r"<g:additional_image_link><!\[CDATA\[(.*?)\]\]></g:additional_image_link>", it)]
+        # Glami rejects images with size charts, logos or screenshots; drop them from the feed only
+        imgs = [u for u in imgs if u and not any(b in u for b in IMG_BLOCK)]
+        if not imgs:
+            skipped.append((sku, "no image"))
+            continue
         desc = tag(it, "description")
         base_price = price(tag(it, "g:sale_price")) or price(tag(it, "g:price").replace(".", ","))
         variants = []
