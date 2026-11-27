@@ -526,35 +526,6 @@
 <EAN>0745314676380</EAN>
 </SHOPITEM>
 <SHOPITEM>
-<ITEM_ID>CV-MER-HORC-M</ITEM_ID>
-<ITEMGROUP_ID>CV-MER-HORC</ITEMGROUP_ID>
-<PRODUCTNAME>Vačice Celoročný merino spací vak - horčicový - 1.5 - 2 TOG - veľkosť M</PRODUCTNAME>
-<PRODUCT>Vačice Celoročný merino spací vak - horčicový - 1.5 - 2 TOG - veľkosť M</PRODUCT>
-<DESCRIPTION><![CDATA[Bábätko sa v noci neodkryje, nepotí sa ani nemrzne. Merino udrží stálu teplotu, takže spí pokojnejšie v bežne vykúrenej izbe po celý rok.]]></DESCRIPTION>
-<URL>https://www.vacice.sk/celorocny-merino-spaci-vak-horcicovy/?utm_source=heureka&amp;utm_medium=cpc&amp;utm_campaign=heureka-sk&amp;velkost=M</URL>
-<IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/celorocny-merino-spaci-vak-horcicovy-679.jpg?ft=1795684679&amp;nwtrmrk=1</IMGURL>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/112d54e21983958113659f814e919811f.jpeg?ft=1705909907&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/2e34f9968cd460dc1dcd3b79542247eff.jpeg?ft=1705909907&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/3a38c522aea60fc362cc04bc98052c4b4.jpeg?ft=1705909907&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/4caaf08786b53d56f913cdaca8a0b42a5.jpeg?ft=1705909907&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/58ae6b493e7c88e69744d4c01763ef52b.jpeg?ft=1705909907&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/60d14b0dbc308d4cb948c8f2d8e595337.jpeg?ft=1705909907&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/73c7498e095c2235e23fc72e80fd346a5.jpeg?ft=1705909907&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/8e9d7297da3421185f134b2292fcf56b9.jpeg?ft=1705909907&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/9c6b59f807728e40131fd269c80f96662.jpeg?ft=1705909908&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<PRICE_VAT>134.10</PRICE_VAT>
-<MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
-<CATEGORYTEXT>Heureka.sk | Detský tovar | Vybavenie detskej izby | Detské spacie vaky a zavinovačky</CATEGORYTEXT>
-<PARAM><PARAM_NAME>Veľkosť</PARAM_NAME><VAL>M</VAL></PARAM>
-<PARAM><PARAM_NAME>Farba</PARAM_NAME><VAL>horčicový</VAL></PARAM>
-<PARAM><PARAM_NAME>Materiál</PARAM_NAME><VAL>bavlna</VAL></PARAM>
-<PARAM><PARAM_NAME>Materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL></PARAM>
-<DELIVERY_DATE>3</DELIVERY_DATE>
-<DELIVERY><DELIVERY_ID>DPD_BOX</DELIVERY_ID><DELIVERY_PRICE>2.60</DELIVERY_PRICE><DELIVERY_PRICE_COD>4.10</DELIVERY_PRICE_COD></DELIVERY>
-<DELIVERY><DELIVERY_ID>DPD</DELIVERY_ID><DELIVERY_PRICE>4.50</DELIVERY_PRICE><DELIVERY_PRICE_COD>6.00</DELIVERY_PRICE_COD></DELIVERY>
-<EAN>8586029950707</EAN>
-</SHOPITEM>
-<SHOPITEM>
 <ITEM_ID>CV-MER-HORC-XL</ITEM_ID>
 <ITEMGROUP_ID>CV-MER-HORC</ITEMGROUP_ID>
 <PRODUCTNAME>Vačice Celoročný merino spací vak - horčicový - 1.5 - 2 TOG - veľkosť XL</PRODUCTNAME>
@@ -1030,7 +1001,7 @@
 <PARAM><PARAM_NAME>Veľkosť</PARAM_NAME><VAL>S</VAL></PARAM>
 <PARAM><PARAM_NAME>Farba</PARAM_NAME><VAL>rose</VAL></PARAM>
 <PARAM><PARAM_NAME>Materiál</PARAM_NAME><VAL>merino vlna</VAL></PARAM>
-<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY_DATE>3</DELIVERY_DATE>
 <DELIVERY><DELIVERY_ID>DPD_BOX</DELIVERY_ID><DELIVERY_PRICE>2.60</DELIVERY_PRICE><DELIVERY_PRICE_COD>4.10</DELIVERY_PRICE_COD></DELIVERY>
 <DELIVERY><DELIVERY_ID>DPD</DELIVERY_ID><DELIVERY_PRICE>4.50</DELIVERY_PRICE><DELIVERY_PRICE_COD>6.00</DELIVERY_PRICE_COD></DELIVERY>
 <EAN>0745314676472</EAN>
@@ -1301,27 +1272,6 @@
 <EAN>8586029951186</EAN>
 </SHOPITEM>
 <SHOPITEM>
-<ITEM_ID>CV-MER-WSTONE-S</ITEM_ID>
-<ITEMGROUP_ID>CV-MER-WSTONE</ITEMGROUP_ID>
-<PRODUCTNAME>Vačice Celoročný merino spací vak - White Stone - 2.5 TOG - veľkosť S</PRODUCTNAME>
-<PRODUCT>Vačice Celoročný merino spací vak - White Stone - 2.5 TOG - veľkosť S</PRODUCT>
-<DESCRIPTION><![CDATA[Bábätko sa v noci neodkryje, nepotí sa ani nemrzne. Merino udrží stálu teplotu, takže spí pokojnejšie v bežne vykúrenej izbe po celý rok.]]></DESCRIPTION>
-<URL>https://www.vacice.sk/celorocny-merino-spaci-vak-white-stone/?utm_source=heureka&amp;utm_medium=cpc&amp;utm_campaign=heureka-sk&amp;velkost=S</URL>
-<IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/celorocny-merino-spaci-vak-white-stone-957.jpg?ft=1790055721&amp;nwtrmrk=1</IMGURL>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/cv_whitestone_zd.jpg?ft=1790055725&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<PRICE_VAT>130.50</PRICE_VAT>
-<MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
-<CATEGORYTEXT>Heureka.sk | Detský tovar | Vybavenie detskej izby | Detské spacie vaky a zavinovačky</CATEGORYTEXT>
-<PARAM><PARAM_NAME>Veľkosť</PARAM_NAME><VAL>S</VAL></PARAM>
-<PARAM><PARAM_NAME>Farba</PARAM_NAME><VAL>white stone</VAL></PARAM>
-<PARAM><PARAM_NAME>Materiál</PARAM_NAME><VAL>bavlna</VAL></PARAM>
-<PARAM><PARAM_NAME>Materiál podšívky</PARAM_NAME><VAL>merino vlna</VAL></PARAM>
-<DELIVERY_DATE>3</DELIVERY_DATE>
-<DELIVERY><DELIVERY_ID>DPD_BOX</DELIVERY_ID><DELIVERY_PRICE>2.60</DELIVERY_PRICE><DELIVERY_PRICE_COD>4.10</DELIVERY_PRICE_COD></DELIVERY>
-<DELIVERY><DELIVERY_ID>DPD</DELIVERY_ID><DELIVERY_PRICE>4.50</DELIVERY_PRICE><DELIVERY_PRICE_COD>6.00</DELIVERY_PRICE_COD></DELIVERY>
-<EAN>8586029951209</EAN>
-</SHOPITEM>
-<SHOPITEM>
 <ITEM_ID>CV-MER-WSAND-M</ITEM_ID>
 <ITEMGROUP_ID>CV-MER-WSAND</ITEMGROUP_ID>
 <PRODUCTNAME>Vačice Celoročný merino spací vak - Wool Sand - 2.5 TOG - veľkosť M</PRODUCTNAME>
@@ -1460,7 +1410,7 @@
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/cv_yellowstone_zd.jpg?ft=1790055618&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/cv_yellowstone-detal3.jpg?ft=1790055616&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/cv_yellowstone-detal1.jpg?ft=1790055618&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<PRICE_VAT>160.00</PRICE_VAT>
+<PRICE_VAT>144.00</PRICE_VAT>
 <MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
 <CATEGORYTEXT>Heureka.sk | Detský tovar | Vybavenie detskej izby | Detské spacie vaky a zavinovačky</CATEGORYTEXT>
 <PARAM><PARAM_NAME>Veľkosť</PARAM_NAME><VAL>M</VAL></PARAM>
@@ -1483,7 +1433,7 @@
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/cv_yellowstone_zd.jpg?ft=1790055618&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/cv_yellowstone-detal3.jpg?ft=1790055616&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
 <IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/cv_yellowstone-detal1.jpg?ft=1790055618&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<PRICE_VAT>175.00</PRICE_VAT>
+<PRICE_VAT>157.50</PRICE_VAT>
 <MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
 <CATEGORYTEXT>Heureka.sk | Detský tovar | Vybavenie detskej izby | Detské spacie vaky a zavinovačky</CATEGORYTEXT>
 <PARAM><PARAM_NAME>Veľkosť</PARAM_NAME><VAL>L</VAL></PARAM>
