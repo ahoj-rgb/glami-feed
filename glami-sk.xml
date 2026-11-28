@@ -2895,26 +2895,6 @@
 <GTIN>8586029950042</GTIN>
 </SHOPITEM>
 <SHOPITEM>
-<ITEM_ID>LV-MER-AIR-L</ITEM_ID>
-<ITEMGROUP_ID>LV-MER-AIR</ITEMGROUP_ID>
-<PRODUCTNAME>Letný jednovrstvový merino/tencel spací vak - AIR - TOG 0.5</PRODUCTNAME>
-<DESCRIPTION><![CDATA[Ani v teplej noci sa bábätko nepotí a nemusíte ho prikrývať. Ľahké merino odvádza vlhkosť, takže spí pokojne aj v lete.]]></DESCRIPTION>
-<URL>https://www.vacice.sk/letny-merino-tencel-spaci-vak-air/</URL>
-<IMGURL>https://www.vacice.sk/sub/vacice.sk/shop/product/letny-merino-spaci-vak-air-944.jpg?ft=1783093760&amp;nwtrmrk=1</IMGURL>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/lv-air-zd_11zon.jpg?ft=1783093752&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<IMGURL_ALTERNATIVE>https://www.vacice.sk/sub/vacice.sk/images/shop-active-images/lv-air-detail_11zon.jpg?ft=1783093752&amp;nwtrmrk=1</IMGURL_ALTERNATIVE>
-<PRICE_VAT>91.03</PRICE_VAT>
-<MANUFACTURER>Vačice Sleepwear</MANUFACTURER>
-<CATEGORYTEXT>Glami.sk | Detské oblečenie a obuv | Detské oblečenie | Oblečenie pre bábätká | Baby nočné prádlo</CATEGORYTEXT>
-<PARAM><PARAM_NAME>veľkosť</PARAM_NAME><VAL>L</VAL></PARAM>
-<PARAM><PARAM_NAME>size_system</PARAM_NAME><VAL>INT</VAL></PARAM>
-<PARAM><PARAM_NAME>farba</PARAM_NAME><VAL>air</VAL></PARAM>
-<PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>merino vlna</VAL><PERCENTAGE>50%</PERCENTAGE></PARAM>
-<PARAM><PARAM_NAME>materiál</PARAM_NAME><VAL>lyocell</VAL><PERCENTAGE>50%</PERCENTAGE></PARAM>
-<DELIVERY_DATE>5</DELIVERY_DATE>
-<GTIN>8586029953449</GTIN>
-</SHOPITEM>
-<SHOPITEM>
 <ITEM_ID>LV-MER-ZLTA-L</ITEM_ID>
 <ITEMGROUP_ID>LV-MER-ZLTA</ITEMGROUP_ID>
 <PRODUCTNAME>Letný merino spací vak - Retro žltý - 0.5 - 1.0 TOG</PRODUCTNAME>
